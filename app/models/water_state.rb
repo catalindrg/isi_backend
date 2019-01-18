@@ -1,0 +1,2 @@
+class WaterState < ApplicationRecord
+end
